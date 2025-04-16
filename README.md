@@ -1,1 +1,7 @@
-# compare_gems_of_history_tables
+# README
+
+履歴テーブル系のgem比較
+
+https://github.com/paper-trail-gem/paper_trail
+https://github.com/collectiveidea/audited
+https://github.com/palkan/logidze
